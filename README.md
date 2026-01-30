@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InciAbacioglu
 - 👀 I’m interested in coding, reading and chess.
-- 🌱 I’m currently learning C language and keypoints of programming.
+- 🌱 I’m currently learning Java language and keypoints of programming.
 
 
 <!---
