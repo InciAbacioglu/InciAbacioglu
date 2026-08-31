@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi,+I'm+Inci!+%F0%9F%91%8B;Cyber+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/InciAbacioglu/InciAbacioglu/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</div>
-
 <br/>
 
 ### About Me 👋
@@ -42,6 +38,12 @@ I'm a passionate Computer Engineering student based in Aydın, Turkey 🇹🇷. 
   <a href="https://medium.com/@inciabacioglu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://tryhackme.com/p/InciAbacioglu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://hackthebox.eu/profile/InciAbacioglu" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/InciAbacioglu/InciAbacioglu/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
