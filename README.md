@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi,+I'm+Inci!+%F0%9F%91%8B;Cyber+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi,+I'm+Inci!+%F0%9F%91%8B;Cyber+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -45,4 +45,4 @@ I'm a passionate Computer Engineering student based in Aydın, Turkey 🇹🇷. 
 </div>
 
 ---
-<p align="center">Build with ❤️ in Konya, Turkey.</p>
+<p align="center">Build with ❤️ in Aydın, Turkey.</p>
