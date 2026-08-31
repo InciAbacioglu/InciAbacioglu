@@ -38,7 +38,7 @@ I'm a passionate Computer Engineering student based in Aydın, Turkey 🇹🇷. 
 ### Find Me On 🌐
 
 <div align="center">
-  <a href="https://linkedin.com/in/InciAbacioglu(https://www.linkedin.com/in/incimercan-abacioğlu)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/incimercan-abacioğlu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@inciabacioglu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://tryhackme.com/p/InciAbacioglu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://hackthebox.eu/profile/InciAbacioglu" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"></a>
